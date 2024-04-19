@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Y_BP",
+        "name": "Y_BP",
+        "uuid": "5c7a3159-39cd-453e-9799-b4153b6645a3",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 20, 70 ]
+    },
+    "modules": [
+        {
+            "description": "Y_BP",
+            "type": "data",
+            "uuid": "cb348232-e04b-499a-a636-1c9839dd9cf8",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "8d480780-bb35-4d00-8aca-052eb30e8baf",
+            "version": [0, 0, 1]
+        }
+    ]
+}

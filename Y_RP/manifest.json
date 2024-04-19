@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Y_RP",
+        "name": "Y_RP",
+        "uuid": "750277c2-bbe4-4a07-9aa1-649c3c74ec8d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 70 ]
+    },
+    "modules": [
+        {
+            "description": "Y_RP",
+            "type": "resources",
+            "uuid": "9e363c25-0264-411c-9e1c-3d95d60eaabe",
+            "version": [0, 0, 1]
+        }
+    ]
+}

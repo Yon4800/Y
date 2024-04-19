@@ -1,0 +1,14 @@
+{
+   "format_version" : "1.20.20",
+   "sound_definitions" : {
+      "mob.y" : {
+         "__use_legacy_max_distance" : true,
+         "category" : "hostile",
+         "sounds" : [
+            "sounds/errorhua/y-1",
+            "sounds/errorhua/y-2",
+            "sounds/errorhua/y-3"
+         ]
+      }
+   }
+}

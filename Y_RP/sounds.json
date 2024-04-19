@@ -1,0 +1,17 @@
+{
+   "entity_sounds": {
+      "entities": {
+         "errorhua:y" : {
+            "events" : {
+               "ambient" : "mob.y",
+               "death" : "mob.y",
+               "hurt" : {
+                  "sound" : "mob.y"
+               }
+            },
+            "pitch" : [ 0.20, 1.80 ],
+            "volume" : 0.8
+         }
+      }
+   }
+}
